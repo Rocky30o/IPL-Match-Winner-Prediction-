@@ -1,0 +1,18 @@
+# .gitignore
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/System files
+.DS_Store
+Thumbs.db
