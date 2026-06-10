@@ -172,4 +172,10 @@ Add these ATS-friendly points to your resume:
 * **End-to-End ML Pipeline**: Architected an end-to-end IPL Match Winner Prediction pipeline in Python, automating data collection, ingestion, exploratory data analysis, preprocessing, and model inference.
 * **Robust Preprocessing & Target Modeling**: Formulated the target variable as a binary classification (Team 1 vs. Team 2) to eliminate prediction errors, and built a reusable scikit-learn preprocessing pipeline utilizing `ColumnTransformer` and `OneHotEncoder`.
 * **Model Benchmarking & Evaluation**: Benchmarked Logistic Regression and Random Forest Classifiers on a stratified 80:20 split, evaluating performance with Accuracy, Precision, Recall, F1 Score, and Confusion Matrices.
+
+## 📜 Copyright
+
+© 2026 Ashmit Kumar Sahu. All Rights Reserved.
+
+This project may not be copied, modified, distributed, or reused without explicit permission from the author.
 * **Feature Engineering & Explainability**: Extracted Random Forest Gini importance to identify top match outcome drivers and documented domain-specific model limitations (such as player squad turnover) to explain performance during review.
